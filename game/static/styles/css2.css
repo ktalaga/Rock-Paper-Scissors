@@ -1,0 +1,68 @@
+body{
+    background-color: lavender;
+    font-family: 'Lato', sans-serif;    font-size: 16px;
+    color: black;
+    text-align: justify;
+}
+
+
+h1{
+    font-size: 48px;
+    color: lavender;
+    text-align: center;
+    font-weight: 900;
+}
+
+a:link{
+    color: lavender;
+
+
+}
+
+a:visited{
+    color: lavender;
+}
+
+a:hover{
+    color:midnightblue;
+    background-color: cornflowerblue;
+    border-right: 2px solid navy;
+    box-sizing: border-box;
+    opacity: 0.8;
+}
+a{
+    text-decoration: none;
+    min-width: 500px;
+
+    letter-spacing: 3px;
+}
+
+#container{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header{
+    background-color: dodgerblue;
+    margin-top: 0px;
+    letter-spacing: 5px;
+    padding: 10px;
+
+
+}
+ul{
+    list-style-type: none;
+
+
+
+}
+#topbar{
+}
+aside{
+}
+#section{
+}
+footer{
+
+}

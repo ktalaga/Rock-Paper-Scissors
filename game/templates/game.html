@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+{% block content %}
+    {{ winner }}
+
+    <form action="/game" method="POST">
+    <input type="submit" Value="Play Again">    
+    </form>
+{%endblock%}
